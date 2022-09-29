@@ -29,7 +29,7 @@
     "react-router-native": "5.0.1",
     "redux": "4.0.1",
     "redux-thunk": "2.3.0",
-    "victory-native": "32.0.2"
+    "victory-native": "36.6.8"
   },
   "jest": {
     "preset": "jest-react-native"
